@@ -21,6 +21,5 @@ In this project, I practiced core Python concepts:
 Simply run the script using Python:
 ```bash
 python library.py
-'''
-
+```
 ## 🌟 Created as part of my Python learning journey!
